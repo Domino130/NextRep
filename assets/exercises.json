@@ -1,0 +1,282 @@
+[
+    {
+        "muscleGroup": "Arms",
+        "exercises": [
+            {
+                "exerciseName": "Dumbbell Curls",
+                "usedMuscles": [
+                    "Brachialis",
+                    "Biceps Brachii",
+                    "Anterior Deltoid",
+                    "Brachloradialis"
+                ]
+            },
+            {
+                "exerciseName": "Concentration Curls",
+                "usedMuscles": [
+                    "Biceps Brachii",
+                    "Brachialis"
+                ]
+            },
+            {
+                "exerciseName": "Incline Dumbbell Curls",
+                "usedMuscles": [
+                    "Biceps Brachii",
+                    "Brachialis",
+                    "Brachloradialis"
+                ]
+            },
+            {
+                "exerciseName": "Hammer Curls",
+                "usedMuscles": [
+                    "Biceps Brachii",
+                    "Brachialis",
+                    "Brachloradialis"
+                ]
+            },
+            {
+                "exerciseName": "Low-Pulley Curls",
+                "usedMuscles": [
+                    "Biceps Brachii",
+                    "Brachialis"
+                ]
+            },
+            {
+                "exerciseName": "High-Pulley Curls",
+                "usedMuscles": [
+                    "Biceps Brachii - Long Head",
+                    "Biceps Brachii - Short Head",
+                    "Biceps Brachii",
+                    "Brachialis",
+                    "Brachloradialis"
+                ]
+            },
+            {
+                "exerciseName": "Barbell Curls",
+                "usedMuscles": [
+                    "Biceps Brachii - Long Head",
+                    "Biceps Brachii - Short Head",
+                    "Biceps Brachii",
+                    "Brachialis",
+                    "Brachloradialis"
+                ]
+            },
+            {
+                "exerciseName": "Machine Curls",
+                "usedMuscles": [
+                    "Biceps Brachii",
+                    "Brachialis"
+                ]
+            },
+            {
+                "exerciseName": "Preacher Curls",
+                "usedMuscles": [
+                    "Biceps Brachii",
+                    "Brachialis"
+                ]
+            },
+            {
+                "exerciseName": "Standing Reverse Wrist Curls",
+                "usedMuscles": [
+                    "Extensor Carpi Radialis Longus",
+                    "Extensor Digiti Minimi",
+                    "Extensor Digitorum",
+                    "Extensor Carpi Radialis Brevis",
+                    "Extensor Carpi Uinaris",
+                    "Extensor Retinaculum"
+                ]
+            },
+            {
+                "exerciseName": "Seated Reverse Wrist Curls",
+                "usedMuscles": [
+                    "Extensor Carpi Radialis Longus",
+                    "Extensor Digiti Minimi",
+                    "Extensor Digitorum",
+                    "Extensor Carpi Radialis Brevis",
+                    "Extensor Carpi Uinaris",
+                    "Extensor Indicis"
+                ]
+            },
+            {
+                "exerciseName": "Wrist Curls",
+                "usedMuscles": [
+                    "Flexor Carpi Radialis",
+                    "Palmaris Longus",
+                    "Flexor Digitorum Superficialis and Profundus",
+                    "Flexor Carpi Ulnaris",
+                    "Flexor Digitorum Superficialis, Covering the Flexor Digitorum Profundus",
+                    "Flexor Pollicis Longus"
+                ]
+            },
+            {
+                "exerciseName": "Finger Curls",
+                "usedMuscles": [
+                    "Flexor Carpi Radialis",
+                    "Flexor Digitorum Superficialis",
+                    "Flexor Digitorum Superficialis - Tendons",
+                    "Flexor Digitorum Muscles",
+                    "Flexor Digitorum Profundus - Tendons",
+                    "Flexor Pollicis Brevis",
+                    "Flexor Retinaculum",
+                    "Flexor Retinaculum Covering the Carpal Tunnel",
+                    "Flexor Carpi Ulnaris",
+                    "Flexor Digitorum Superficialis, Covering the Flexor Digitorum Profundus",
+                    "Flexor Pollicis Longus"
+                ]
+            },
+            {
+                "exerciseName": "Reverse Barbell Curls",
+                "usedMuscles": [
+                    "Brachloradialis",
+                    "Extensor Carpi Radialis Longus",
+                    "Extensor Carpi Radialis Brevis",
+                    "Extensor Digitorum",
+                    "Extensor Digiti Minimi",
+                    "Extensor Carpi Uinaris",
+                    "Brachialis",
+                    "Biceps Brachii"
+                ]
+            },
+            {
+                "exerciseName": "Triceps Push-Downs",
+                "usedMuscles": [
+                    "Triceps Brachii - Lateral Head, Long Head, Medial Head",
+                    "Anconeus"
+                ]
+            },
+            {
+                "exerciseName": "Reverse Triceps Push-Downs",
+                "usedMuscles": [
+                    "Triceps Brachii - Lateral Head, Long Head, Medial Head",
+                    "Anconeus",
+                    "Extensor Carpi Radialis Longus",
+                    "Extensor Carpi Uinaris",
+                    "Extensor Digitorum",
+                    "Extensor Carpi Radialis Brevis"
+                ]
+            },
+            {
+                "exerciseName": "One-Arm Reverse Triceps Push-Downs",
+                "usedMuscles": [
+                    "Triceps Brachii - Lateral Head, Long Head, Medial Head",
+                    ""
+                ]
+            }
+        ]
+    },
+    {
+        "muscleGroup": "Shoulders",
+        "exercises": [
+            {
+                "exerciseName": "Squat",
+                "usedMuscles": [
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Glutes"
+                ]
+            },
+            {
+                "exerciseName": "Leg Press",
+                "usedMuscles": [
+                    "Quadriceps",
+                    "Glutes"
+                ]
+            }
+        ]
+    },
+    {
+        "muscleGroup": "Chest",
+        "exercises": [
+            {
+                "exerciseName": "Bench Press",
+                "usedMuscles": [
+                    "Pectoralis Major",
+                    "Triceps Brachii",
+                    "Deltoid"
+                ]
+            },
+            {
+                "exerciseName": "Chest Fly",
+                "usedMuscles": [
+                    "Pectoralis Major"
+                ]
+            }
+        ]
+    },
+    {
+        "muscleGroup": "Back",
+        "exercises": [
+            {
+                "exerciseName": "Bench Press",
+                "usedMuscles": [
+                    "Pectoralis Major",
+                    "Triceps Brachii",
+                    "Deltoid"
+                ]
+            },
+            {
+                "exerciseName": "Chest Fly",
+                "usedMuscles": [
+                    "Pectoralis Major"
+                ]
+            }
+        ]
+    },
+    {
+        "muscleGroup": "Legs",
+        "exercises": [
+            {
+                "exerciseName": "Bench Press",
+                "usedMuscles": [
+                    "Pectoralis Major",
+                    "Triceps Brachii",
+                    "Deltoid"
+                ]
+            },
+            {
+                "exerciseName": "Chest Fly",
+                "usedMuscles": [
+                    "Pectoralis Major"
+                ]
+            }
+        ]
+    },
+    {
+        "muscleGroup": "Buttocks",
+        "exercises": [
+            {
+                "exerciseName": "Bench Press",
+                "usedMuscles": [
+                    "Pectoralis Major",
+                    "Triceps Brachii",
+                    "Deltoid"
+                ]
+            },
+            {
+                "exerciseName": "Chest Fly",
+                "usedMuscles": [
+                    "Pectoralis Major"
+                ]
+            }
+        ]
+    },
+    {
+        "muscleGroup": "Abdomen",
+        "exercises": [
+            {
+                "exerciseName": "Bench Press",
+                "usedMuscles": [
+                    "Pectoralis Major",
+                    "Triceps Brachii",
+                    "Deltoid"
+                ]
+            },
+            {
+                "exerciseName": "Chest Fly",
+                "usedMuscles": [
+                    "Pectoralis Major"
+                ]
+            }
+        ]
+    }
+]
